@@ -1,5 +1,10 @@
-# Title
+---
+title: Test1
+layout: post
+---
+
+# TEST is here
 
 Body goes here
 
-Here's a link to [test2](test2) :-)
+This is a link to [test2](test2.html) :-)

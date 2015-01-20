@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /test3/
+permalink: /test3.html
+
 ---
 
 # This is TEST3

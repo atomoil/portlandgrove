@@ -1,7 +1,7 @@
 ---
 title: Arietta
 layout: page
-permalink: /test/
+permalink: /test.html
 
 ---
 
@@ -9,4 +9,4 @@ permalink: /test/
 
 Body goes here
 
-This is a link to [test2](/test2/) :-)
+This is a link to [test2](test2.html) :-)

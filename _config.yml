@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Portland Grove
 email:       your_email@example.com
-author:      John Otander
+author:      Adam Hoyle
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "atomoil.github.io/portlandgrove/"
+url:         "http://atomoil.github.io/portlandgrove/"
 
 # Google analytics
 google_analytics:

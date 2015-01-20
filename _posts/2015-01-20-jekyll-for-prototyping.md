@@ -9,7 +9,7 @@ categories: prototyping
 
 Hello.
 
-I've been working with a few clients to develop ideas which could become new products and services. Those ideas needs to be shared with others in their organisation, who may not be as technical. We've been using GitHub Pages with Jekyll and markdown as a tool to rapidly prototype sites, so we can **show people not tell people**
+Recently I've been working with a few clients to develop ideas which could become new products and services. Those ideas needs to be shared with others in their organisation, who may not be as technical. We've been using GitHub Pages with Jekyll and markdown as a tool to rapidly prototype sites, so we can **show people not tell people**
 
 <blockquote>
   <p>

@@ -2,8 +2,8 @@
 title:       Portland Grove
 email:       your_email@example.com
 author:      Adam Hoyle
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "http://atomoil.github.io/portlandgrove/"
+description: "Welcome to Portland Grove."
+baseurl:     "http://atomoil.github.io/portlandgrove"
 url:         "http://atomoil.github.io/portlandgrove/"
 
 # Google analytics

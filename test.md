@@ -1,10 +1,12 @@
 ---
 title: Arietta
-layout: post
+layout: page
+permalink: /test/
+
 ---
 
 # TEST is here
 
 Body goes here
 
-This is a link to [test2](test2.html) :-)
+This is a link to [test2](/test2/) :-)

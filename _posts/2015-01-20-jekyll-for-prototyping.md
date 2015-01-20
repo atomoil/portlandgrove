@@ -18,6 +18,6 @@ I've been working with a few clients to develop ideas which could become new pro
   <footer><cite title="Benjamin Franklyn">Benjamin Franklyn</cite></footer>
 </blockquote>
 
-## Sounds good, how do I do this myself?
+### Sounds good, how do I do this myself?
 
 [GitHub Pages](https://pages.github.com) is the best place to start. It's useful, but not essential to [set up Jekyll locally](https://help.github.com/articles/using-jekyll-with-pages/). [This awesome tutorial](http://24ways.org/2013/get-started-with-github-pages/) talks through setting up Github pages and Jekyll. Finally a theme is important and [this site has loads of themes for Jekyll](http://jekyllthemes.org).
